@@ -11,7 +11,6 @@ public class SuhuActivity extends AppCompatActivity {
     EditText edtCelcius,edtFarenheit;
     Button btnHasil,btnClear;
 
-    double awal , farenheit, celcius;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
